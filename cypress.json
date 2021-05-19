@@ -1,0 +1,8 @@
+{
+    "env": {
+        "REACT_APP_BASE_URL": "http://localhost:3000/dashboard",
+        "REACT_APP_API_URL": "http://localhost:3003/v1/",
+        "REACT_APP_PROJECT_UNIQUE": "PROJECT-UNIQUE-DASHBOARD",
+        "REACT_APP_ATH_TOKEN_NAME": "AUTH"
+    }
+}
